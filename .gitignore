@@ -1,0 +1,5 @@
+# Ignorar tudo dentro da pasta 'data' na raiz
+/data/*
+
+# Ignorar toda a pasta 'venv' (ambiente virtual)
+/venv/
