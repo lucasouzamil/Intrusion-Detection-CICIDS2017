@@ -3,3 +3,4 @@
 
 # Ignorar toda a pasta 'venv' (ambiente virtual)
 /venv/
+/.venv/
